@@ -25,5 +25,4 @@ export const MegaSena = props => {
 
     numeros.sort((a,b) => a - b)
     return <Text style={Default.ex}>{numeros.join(', ')}</Text>
-
 }

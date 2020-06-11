@@ -30,4 +30,4 @@ export default props => [
 
 
 export default props =>
-    <Text style={[Default.ex]}>Arrow 1: {props.texto}</Text>
+    <Text style={[Default.ex]}>Arrow 1: Teste</Text>
